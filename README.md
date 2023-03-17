@@ -19,7 +19,7 @@ Olá Eu sou o Leonardo
   ##
   
 <div>
-   <h4>Sou um programador, apaixonado por tecnologia, estou estudando essa área e pretendo seguir minha carreira por ela</h4>
+   <h4>Sou um jovem, apaixonado por tecnologia, estou estudando essa área e pretendo seguir minha carreira por ela</h4>
 </div>
 
 ##

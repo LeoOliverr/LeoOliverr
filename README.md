@@ -1,4 +1,7 @@
-Olá Eu sou o Leonardo
+<div>
+<h2>Olá Eu sou o Leonardo</h2>
+<h4>Sou um jovem, apaixonado por tecnologia, estou estudando essa área e pretendo seguir minha carreira por ela</h4>
+</div>
 
 ##
 
@@ -14,12 +17,6 @@ Olá Eu sou o Leonardo
   <img allign="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
-</div>
-  
-  ##
-  
-<div>
-   <h4>Sou um jovem, apaixonado por tecnologia, estou estudando essa área e pretendo seguir minha carreira por ela</h4>
 </div>
 
 ##
